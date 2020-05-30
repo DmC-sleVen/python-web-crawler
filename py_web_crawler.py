@@ -37,6 +37,7 @@ class MietenFetcher():
         print("This is has to be done! An issue is already open!")
         print("This is a test")
         print("Another test")
+        print("Is this working?")
         return
 
 
