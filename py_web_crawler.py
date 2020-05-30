@@ -35,6 +35,7 @@ class MietenFetcher():
 
     def jahresnettokaltmiete(self):
         print("This is has to be done! An issue is already open!")
+        print("This is a test")
         return
 
 
