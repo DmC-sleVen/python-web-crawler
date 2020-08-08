@@ -38,10 +38,12 @@ class MietenFetcher():
         print("This is a test")
         print("Another test")
         print("Is this working?")
+        print("This is a test")
+        print("just testing something")    
         return
+    
 
-
-        
+    
 
 fetcher=MietenFetcher()
 fetcher.fetch()
