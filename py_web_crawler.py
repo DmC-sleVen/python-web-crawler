@@ -40,6 +40,7 @@ class MietenFetcher():
         print("Is this working?")
         print("This is a test")
         print("just testing something")    
+        print("Another useless test")
         return
     
 
